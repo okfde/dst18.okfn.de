@@ -1,0 +1,112 @@
+global:
+  about: About
+navig:
+  Themen: Topics
+  Projekte: Projects
+  Blog: Blog
+  Services: Services
+  Spenden: Support
+  Mehr: More
+  Team: Team
+  Vorstand: Board
+  Verein: Organisation
+  Presse: Press
+  Jobs: Jobs
+  Impressum: Contact
+titles:
+  Themen: Topics
+  Impressum: Contact
+  Tags: Blog Tags
+  Jobs: Jobs
+  Spenden: Donations
+themen:
+  Themen: Topics
+  Mehr: learn more
+  Intro:  >
+     The Open Knowledge Foundation Germany considers itself an active part of German and European civil society.
+     We promote and support civil rights as they are formulated in the German constitution and the European Convention of Human Rights.
+     We especially focus on the following topics related to digital society:
+projekte:
+  Projekte: Projects
+  Intro: >
+    We bring together people that build digital tools for citizens, and we run an open web infrastructure for our democracy. These are our projects:
+  Forschung: Research
+  Bildung: Education
+  Politik: Politics
+  Archiv: Completed Projects
+projekt:
+  Ansprechpartner: Contact
+  Mailingliste: Mailing List
+  MehrInformationen: More Informations
+  WeitereProjekte: More Projects
+person:
+  ArbeitetAn: works on
+thema:
+  WeitereThemen: More Topics
+blog:
+  FeedTitle: Blog of Open Knowledge Foundation Germany
+  FeedAbo: Subscribe with your feedreader
+  Mehr: Read full post...
+  Von: by
+  AmDatum: "on"
+  PostsMit: Posts with
+  TeileAuf: "Share on"
+  VerwandteBeitraege: Related post
+  VorherigerBeitrag: Previous post
+  NaechsterBeitrag: Next post
+  Suche: Blog Search
+  SucheNach: Search for
+  Autorinnen: Autors
+  Text: Text
+  Titel: Title
+  Tags: Tags
+  GefundenIn: Found query in
+  SucheWirdGeladen: Search is loading...
+  NichtsGefunden: No results found
+  ZurueckZumBlog: Back to the blog
+  Und: "&"
+pagination:
+  Seiten: Pages
+  Aktuelle: Current
+  Seite: Page
+  Vorherige: Previous
+  Naechste: Next
+  Uebersprungen: Übersprungen
+start:
+  Slogan: Open Knowledge<br/>for the digital society
+  Intro: >
+    The Open Knowledge Foundation Germany is a nonprofit organization that advocates open knowledge, open data, transparency, and civil participation.
+  Willkommen: >
+    Learn more about our <a href="/en/verein/">organisation</a>, our <a href="/en/mission/">goals</a>, and our <a href="/en/projekte/">projects</a>.
+  Spenden: Our work is
+  SpendenText: >
+    The Open Knowledge Foundation is an independent, nonpartisan, interdisciplinary, and nonprofit organization. Almost all of our projects are run by volunteers.
+    Therefore, we welcome any donation that allows us to provide support and a good infrastructure to the people working for the Open Knowledge Foundation Germany. We also accept donations for specific projects.
+  SpendenJa: Support the OKF
+  SpendenNein: Hold on. Tell me more first.
+  Newsletter: Newsletter
+  NewsletterText: >
+    You want to stay up to date on our activities? Sign up here for our monthly newsletter:
+  NewsletterJa: Sign up
+  AusUnseremBlog: From our Blog
+footer:
+  license: >
+    The Open Knowledge Foundation Deutschland (OKF DE) is an independent non-profit organisation registered in Berlin, Germany in 2011 under VR 30468 B. The contents of this website are, if not stated otherwise, licensed with <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a>.
+impressum:
+  Adresse: Address
+  Kontakt: Contact
+  WeitereKanaele: Other Channels
+  Webseitendesign: Website design
+  VereinsregisterNr: Register of Association Number
+  Steuernummer: Tax ID
+  VAT: VAT
+  EMail: Email
+  Telefon: Phone
+  Fax: Fax
+  Tech: Technology
+  TechBROWSERSTACK: >
+    This site is generously supported by <a href="https://www.browserstack.com">BrowserStack</a> for cross-browser compatibility.
+  TechJEKYLL: >
+    Build with <a href="https://jekyllrb.com/">Jekyll</a> and Data Love.
+jobs:
+  Informationen: More Informations…

@@ -1,0 +1,45 @@
+---
+layout: default
+title: Projekte
+description: "Wir bringen Menschen zusammen, die digitale Bürger-Werkzeuge bauen, und wir betreiben offene Web-Infrastruktur für unsere Demokratie."
+menu_projekte: yes
+card: true
+background: backgrounds/projekte.jpg
+---
+
+<div class="lurking-header">
+  <h1>{% t projekte.Projekte %}</h1>
+  <p>{% t projekte.Intro %}</p>
+</div>
+
+<h3 class="subtle-section">{% t projekte.Politik %}</h3>
+<div class="row row-flex row-flex-wrap">
+{% assign projects = site.projects | where: "type", "politics" | sort:"order","last" %}
+{% for project in projects %}
+  {% include project_list.html project=project %}
+{% endfor %}
+</div>
+
+<h3 class="subtle-section">{% t projekte.Bildung %}</h3>
+<div class="row row-flex row-flex-wrap">
+{% assign projects = site.projects | where: "type", "education" | sort:"order","last" %}
+{% for project in projects %}
+  {% include project_list.html project=project %}
+{% endfor %}
+</div>
+
+<h3 class="subtle-section">{% t projekte.Forschung %}</h3>
+<div class="row row-flex row-flex-wrap">
+  {% assign projects = site.projects | where: "type", "research" | sort:"order","last" %}
+  {% for project in projects %}
+  {% include project_list.html project=project %}
+  {% endfor %}
+</div>
+
+<h3 class="subtle-section">{% t projekte.Archiv %}</h3>
+<div class="row row-flex row-flex-wrap">
+{% assign projects = site.projects | where: "type", "archive"  | sort:"order","last" %}
+{% for project in projects %}
+  {% include project_list.html project=project %}
+{% endfor %}
+</div>

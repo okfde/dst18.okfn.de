@@ -1,0 +1,111 @@
+navig:
+  Themen: Themen
+  Projekte: Projekte
+  Blog: Blog
+  Services: Services
+  Spenden: Spenden
+  Mehr: Mehr
+  Team: Team
+  Vorstand: Vorstand
+  Verein: Verein
+  Presse: Presse
+  Jobs: Jobs
+  Impressum: Impressum
+titles:
+  Themen: Themen
+  Impressum: Impressum
+  Tags: Tags im Blog
+  Jobs: Stellenangebote & Praktika
+  Spenden: Unterstützen
+themen:
+  Themen: Themen
+  Mehr: mehr erfahren
+  Intro:  >
+     Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft.
+     Wir fördern und stärken die Menschenrechte.
+     Wir setzen uns dabei insbesondere für folgende Themen der digitalen Gesellschaft ein:
+projekte:
+  Projekte: Projekte
+  Intro: >
+    Wir bringen Menschen zusammen, die digitale Bürger-Werkzeuge bauen, und wir betreiben offene Web-Infrastruktur für unsere Demokratie.
+  Forschung: Forschung
+  Bildung: Bildung
+  Politik: Politik
+  Archiv: Abgeschlossene Projekte
+projekt:
+  Ansprechpartner: Ansprechpartner/innen
+  Mailingliste: Mailingliste
+  MehrInformationen: Mehr Informationen
+  WeitereProjekte: Weitere Projekte
+person:
+  ArbeitetAn: arbeitet an
+thema:
+  WeitereThemen: Weitere Themen
+blog:
+  FeedTitle: Blog der Open Knowledge Foundation Deutschland
+  FeedAbo: mit dem Feedreader abonnieren
+  Mehr: weiterlesen...
+  Von: von
+  AmDatum: am
+  PostsMit: Blogposts mit
+  TeileAuf: Blogpost teilen auf
+  VerwandteBeitraege: Verwandte Beiträge
+  VorherigerBeitrag: Vorheriger Beitrag
+  NaechsterBeitrag: Nächster Beitrag
+  Suche: Suche im Blog
+  SucheNach: Suche nach
+  Autorinnen: Autor*innen
+  Text: Text
+  Titel: Titel
+  Tags: Tags
+  GefundenIn: Suchbegriff gefunden in
+  SucheWirdGeladen: Suche wird geladen...
+  NichtsGefunden: Kein Ergebnis
+  ZurueckZumBlog: Zurück zum Blog
+  Und: "&"
+pagination:
+  Seiten: Seiten
+  Aktuelle: Aktuelle
+  Seite: Seite
+  Vorherige: Vorherige
+  Naechste: Nächste
+  Uebersprungen: Übersprungen
+start:
+  Slogan: Offenes Wissen<br/>für die digitale Gesellschaft
+  Intro: >
+    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br class="hidden-xs hidden-sm"/>
+    der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt.
+  Willkommen: >
+    Hier kannst du mehr über unsere <a href="/verein/">Organisation</a>, unsere <a href="/mission/">Ziele</a> und unsere <a href="/projekte/">Projekte</a> erfahren.
+  Spenden: Unsere Arbeit ist
+  SpendenText: >
+    Bitte spenden Sie uns, damit wir uns weiterhin effektiv für freies Wissen, offene Daten und Beteiligung einsetzen können.
+  SpendenJa: Jetzt spenden!
+  SpendenNein: Stop. Erstmal mehr erfahren.
+  Newsletter: Newsletter
+  NewsletterText: >
+    Du möchtest über die Open Knowledge Foundation auf dem Laufenden bleiben?<br>Dann trag Dich in unseren monatlichen Newsletter ein!
+  NewsletterJa: Abonnieren
+  AusUnseremBlog: Aus unserem Blog
+footer:
+  license: >
+    Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben,
+    nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert.
+impressum:
+  Adresse: Vereinsadresse
+  Kontakt: Kontakt
+  WeitereKanaele: Weitere Kanäle
+  Webseitendesign: Webseitendesign
+  VereinsregisterNr: Vereinsregister Nr
+  Steuernummer: Steuernummer
+  VAT: Umsatzsteuernummer
+  EMail: E-Mail
+  Telefon: Telefon
+  Fax: Fax
+  Tech: Technik
+  TechBROWSERSTACK: >
+    Für das Testen von Browserkompatibilität wird diese Seite von <a href="https://www.browserstack.com/">BrowserStack</a> unterstützt.
+  TechJEKYLL: >
+    HTML erzeugt mit <a href="https://jekyllrb.com/">Jekyll</a> und DataLove.
+jobs:
+  Informationen: Mehr Informationen…
